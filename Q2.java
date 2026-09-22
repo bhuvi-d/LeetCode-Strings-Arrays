@@ -1,3 +1,4 @@
+// rev1 - better described as greedy 
 class Solution {
     public int maxProfit(int[] prices) {
         int maxprofit=0;
