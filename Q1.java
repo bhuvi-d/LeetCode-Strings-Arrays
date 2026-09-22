@@ -1,3 +1,4 @@
+// revision 1 asked for indices 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
      int[] pop = new int[2];
