@@ -1,3 +1,4 @@
+// after checking revsiion 1 strategy 
 class Solution {
     public void moveZeroes(int[] nums) {
        int left=0;
